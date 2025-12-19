@@ -43,7 +43,7 @@ Download installer from [Tesseract GitHub Releases](https://github.com/UB-Mannhe
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/captcha-solver.git
+git clone https://github.com/Atharva2864/captcha-solver.git
 cd captcha-solver
 
 # Create virtual environment (recommended)
